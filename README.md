@@ -1,4 +1,4 @@
-# Cruz Roja - Seguimiento de Voluntarios con Personas Mayores
+# Soledad no deseada - Seguimiento de Personas Mayores - Cruz Roja
 
 Este proyecto es una aplicación web desarrollada para la Cruz Roja con el objetivo de llevar un registro de las interacciones entre voluntarios y personas mayores que experimentan soledad. Permite a los voluntarios documentar sus visitas, llamadas telefónicas u otras formas de contacto, facilitando el seguimiento y la coordinación de la asistencia.
 
