@@ -24,10 +24,15 @@ Este proyecto es una aplicación web desarrollada para la Cruz Roja con el objet
 2. Instala las dependencias del backend: `cd server && npm install`
 3. Instala las dependencias del frontend: `cd client && npm install`
 4. Configura las variables de entorno: Crea un archivo `.env` en la carpeta `server` y configura las siguientes variables:
-MYSQL_URL=tu_host_de_mysql MYSQL_USER=tu_usuario_de_mysql MYSQL_PASS=tu_contraseña_de_mysql MYSQL_USER_VOLUNTEER=tu_usuario_de_mysql MYSQL_PASS_VOLUNTEER=tu_contraseña_de_mysql JWT_SECRET=tu_secreto_jwt
+MYSQL_URL=tu_host_de_mysql
+MYSQL_USER=tu_usuario_de_mysql
+MYSQL_PASS=tu_contraseña_de_mysql
+MYSQL_USER_VOLUNTEER=tu_usuario_de_mysql
+MYSQL_PASS_VOLUNTEER=tu_contraseña_de_mysql
+JWT_SECRET=tu_secreto_jwt
 
-5. Inicia el servidor: `npm run dev` (en la carpeta `server`)
-6. Inicia la aplicación frontend: `npm start` (en la carpeta `client`)
+6. Inicia el servidor: `npm run dev` (en la carpeta `server`)
+7. Inicia la aplicación frontend: `npm start` (en la carpeta `client`)
 
 ## Pruebas
 
